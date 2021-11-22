@@ -3,7 +3,7 @@
         "id": "Aatrox",
         "name": "Aatrox",
         "title": "the Darkin Blade",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_7.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_7.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Aatrox.png",
         "lore": "Once honored defenders of Shurima against theF Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance."
     },
@@ -11,7 +11,7 @@
         "id": "Ahri",
         "name": "Ahri",
         "title": "the Nine-Tailed Fox",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_14.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_14.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ahri.png",
         "lore": "Innately connected to the latent power of Runeterra, Ahri is a vastaya who can reshape magic into orbs of raw energy. She revels in toying with her prey by manipulating their emotions before devouring their life essence. Despite her predatory nature, Ahri retains a sense of empathy as she receives flashes of memory from each soul she consumes.."
     },
@@ -20,7 +20,7 @@
         "id": "Yasuo",
         "name": "Yasuo",
         "title": "the Unforgiven",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_3.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_3.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Yasuo.png",
         "lore": "An Ionian of deep resolve, Yasuo is an agile swordsman who wields the air itself against his enemies. As a proud young man, he was falsely accused of murdering his master—unable to prove his innocence, he was forced to slay his own brother in self defense. Even after his master's true killer was revealed, Yasuo still could not forgive himself for all he had done, and now wanders his homeland with only the wind to guide his blade."
     },
@@ -28,7 +28,7 @@
         "id": "Ashe",
         "name": "Ashe",
         "title": "the Frost Archer",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_0.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ashe.png",
         "lore": "Iceborn warmother of the Avarosan tribe, Ashe commands the most populous horde in the north. Stoic, intelligent, and idealistic, yet uncomfortable with her role as leader, she taps into the ancestral magics of her lineage to wield a bow of True Ice. With her people's belief that she is the mythological hero Avarosa reincarnated, Ashe hopes to unify the Freljord once more by retaking their ancient, tribal lands."
     },
@@ -36,7 +36,7 @@
         "id": "Garen",
         "name": "Garen",
         "title": "The Might of Demacia",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_0.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Garen.png",
         "lore": "A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its ideals. Clad in magic-resistant armor and bearing a mighty broadsword, Garen stands ready to confront mages and sorcerers on the field of battle, in a veritable whirlwind of righteous steel."
     },
@@ -44,7 +44,7 @@
         "id": "Jinx",
         "name": "Jinx",
         "title": "the Loose Cannon",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_37.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_37.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Jinx.png",
         "lore": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences. With an arsenal of deadly weapons, she unleashes the loudest blasts and brightest explosions to leave a trail of mayhem and panic in her wake. Jinx despises boredom, and gleefully brings her own chaotic brand of pandemonium wherever she goes."
     },
@@ -53,7 +53,7 @@
         "id": "Kayle",
         "name": "Kayle",
         "title": "the Righteous",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_3.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_3.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kayle.png",
         "lore": "Born to a Targonian Aspect at the height of the Rune Wars, Kayle honored her mother's legacy by fighting for justice on wings of divine flame. She and her twin sister Morgana were the protectors of Demacia for many years—until Kayle became disillusioned with the repeated failings of mortals, and abandoned this realm altogether. Still, legends are told of her punishing the unjust with her fiery swords, and many hope that she will one day return…"
     },
@@ -62,7 +62,7 @@
         "id": "Leblanc",
         "name": "Leblanc",
         "title": "the Deceiver",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_19.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_19.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Leblanc.png",
         "lore": "Mysterious even to other members of the Black Rose cabal, LeBlanc is but one of many names for a pale woman who has manipulated people and events since the earliest days of Noxus. Using her magic to mirror herself, the sorceress can appear to anyone, anywhere, and even be in many places at once. Always plotting just out of sight, LeBlanc's true motives are as inscrutable as her shifting identity."
     },
@@ -71,7 +71,7 @@
         "id": "Lux",
         "name": "Lux",
         "title": "the Lady of Luminosity",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_8.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_8.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Lux.png",
         "lore": "Luxanna Crownguard hails from Demacia, an insular realm where magical abilities are viewed with fear and suspicion. Able to bend light to her will, she grew up dreading discovery and exile, and was forced to keep her power secret, in order to preserve her family's noble status. Nonetheless, Lux's optimism and resilience have led her to embrace her unique talents, and she now covertly wields them in service of her homeland."
     },
@@ -80,7 +80,7 @@
         "id": "Irelia",
         "name": "Irelia",
         "title": "the Blade Dancer",
-        "image_url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_6.jpg",
+        "image_url": "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_6.jpg",
         "icon": "http://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Irelia.png",
         "lore": "The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of deadly blades. After proving herself as a fighter, she was thrust into the role of resistance leader and figurehead, and to this day remains dedicated to the preservation of her homeland."
     }
