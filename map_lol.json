@@ -2,21 +2,21 @@
     {
         "MapId": "11",
         "MapName": "Summoner's Rift",
-        "image": "https://ddragon.leagueoflegends.com/cdn/6.8.1/img/map/map11.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/map/map11.png"
     },
     {
         "MapId": "12",
         "MapName": "Howling Abyss",
-        "image": "https://ddragon.leagueoflegends.com/cdn/6.8.1/img/map/map12.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/map/map12.png"
     },
     {
         "MapId": "21",
         "MapName": "Nexus Blitz",
-        "image": "https://ddragon.leagueoflegends.com/cdn/6.8.1/img/map/map21.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/map/map21.png"
     },
     {
         "MapId": "22",
         "MapName": "Teamfight Tactics",
-        "image": "https://ddragon.leagueoflegends.com/cdn/6.8.1/img/map/map22.png"
+        "image": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/map/map22.png"
     }
 ]
