@@ -2,21 +2,25 @@
     {
         "MapId": "11",
         "MapName": "Summoner's Rift",
+        "Desc": "The oldest and most venerated Field of Justice is known as the Summoner's Rift. This battleground is known for the constant conflicts fought between two opposing groups of Summoners.",
         "image": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/map/map11.png"
     },
     {
         "MapId": "12",
         "MapName": "Howling Abyss",
+        "Desc": "The Howling Abyss is a bottomless crevasse located in the coldest, cruelest, part of the Freljord. Legends say that, long ago, a great battle took place here on the narrow bridge spanning the chasm. No one remembers who fought here, or why, but it is said that if you listen carefully to the wind you can still hear the cries of the vanquished tossed howling into the Abyss",
         "image": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/map/map12.png"
     },
     {
         "MapId": "21",
         "MapName": "Nexus Blitz",
+        "Desc": "The oldest and most venerated Field of Justice is known as the Summoner's Rift. This battleground is known for the constant conflicts fought between two opposing groups of Summoners.",
         "image": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/map/map21.png"
     },
     {
         "MapId": "22",
         "MapName": "Teamfight Tactics",
+        "Desc": "Take the other team’s Nexus. Sound familiar? Two players jungle and three players lane. The map is set up so the two lanes are at the bottom and they’re only separated by some terrain and a thin bush. One player can easily travel between the lanes, ganking and helping out whoever might need it. Simultaneously, the junglers are farming shared XP and gold. While they can also help gank lanes, they’re going to be more focused on farming up and running around the map and helping with events.",
         "image": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/map/map22.png"
     }
 ]
